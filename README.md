@@ -12,14 +12,6 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 # 📈 Stats:
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; height: 100vh;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasrairan13&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasrairan13&theme=gruvbox_light&hide_border=false"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=kasrairan13&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false"/>
-  </div>
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasrairan13&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kasrairan13&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kasrairan13&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)
