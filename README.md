@@ -2,7 +2,7 @@
 
 ![GitHub Snake Animation](https://github.com/kasrairan13/kasrairan13/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 
-## 📌 About Me
+## 💡 About Me
 👋 Hello.<br>🔮 My name is Amirali Sharifian, and I am also known as Kasra.<br><br>I enjoy spending time with Python,<br>and I can challenge others with my knowledge.<br>I help in any way I can.
 
 
