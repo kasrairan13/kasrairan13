@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=kasrairan13&label=Profile+Views&color=blue&style=flat)
+
 ![GitHub Snake Animation](https://github.com/kasrairan13/kasrairan13/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 
 # 📌 About Me:
@@ -23,8 +25,3 @@
     </td>
   </tr>
 </table>
-
----
-![](https://komarev.com/ghpvc/?username=kasrairan13&label=Profile+Views&color=blue&style=flat)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
