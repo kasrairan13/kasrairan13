@@ -25,6 +25,6 @@
 </table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kasrairan13&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=kasrairan13&label=Profile+Views&color=blue&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
