@@ -1,7 +1,7 @@
 ![GitHub Snake Animation](https://github.com/kasrairan13/kasrairan13/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 
 ## 💡 About Me
-👋 Hello.<br>🔮 My name is Amirali Sharifian, and I am also known as Kasra.<br><br>I enjoy spending time with Python,<br>and I can challenge others with my knowledge.<br>I help in any way I can.
+👋 Hello.<br>🔮 My name is Kasra, and I am also known as Kasra_iran.<br><br>I enjoy spending time with Python,<br>and I can challenge others with my knowledge.<br>I help in any way I can.
 
 
 ## 🔗 Social links
@@ -10,9 +10,3 @@
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-
-## 📈 Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasrairan13&langs_count=100&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kasrairan13&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=kasrairan13&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)
