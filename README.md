@@ -32,6 +32,16 @@
 
 <hr>
 
+<h3>Techs</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+<hr>
+
 <h3>Most Used Languages</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kasrairan13&locale=en&hide_title=true&layout=pie&card_width=320&langs_count=10&theme=slateorange&hide_border=true&order=2" alt="languages graph"  />
